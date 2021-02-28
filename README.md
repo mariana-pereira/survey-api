@@ -37,6 +37,8 @@ Run `yarn typeorm migration:run` in order to run the migrations.
 
 Run `yarn dev` in order to start the application in a development environment.
 
+Import [requests_api.json](https://github.com/mariana-pereira/survey-api/blob/main/api_requests.json) into your Rest Client.
+
 
 # Running the tests
 
